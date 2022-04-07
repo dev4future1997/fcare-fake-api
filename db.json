@@ -1,9 +1,76 @@
 {
-  "user": [
-    {
-      "id": "aaaaaaaaaaa",
-      "phone": "0937410387",
-      "password": "1"
-    }
-  ]
+    "master-relationship": [
+        {
+            "id": "ssel",
+            "name": "S_SEL"
+        },
+        {
+            "id": "soth",
+            "name": "S_OTH"
+        },
+        {
+            "id": "mgfa",
+            "name": "M_GFA"
+        },
+        {
+            "id": "mdad",
+            "name": "M_DAD"
+        },
+        {
+            "id": "mobr",
+            "name": "M_OBR"
+        },
+        {
+            "id": "mybr",
+            "name": "M_YBR"
+        },
+        {
+            "id": "mson",
+            "name": "M_SON"
+        },
+        {
+            "id": "fgmo",
+            "name": "F_GMO"
+        },
+        {
+            "id": "fmom",
+            "name": "F_MOM"
+        },
+        {
+            "id": "fosi",
+            "name": "F_OSI"
+        },
+        {
+            "id": "fysi",
+            "name": "F_YSI"
+        },
+        {
+            "id": "fdau",
+            "name": "F_DAU"
+        }
+    ],
+    "user": [
+        {
+            "id": "user-id-001",
+            "phone": "0123456789",
+            "password": "1"
+        }
+    ],
+    "profile": [
+        {
+            "id": "profile-id-001",
+            "user_id": "user-id-001",
+            "relationship_id": "ssel",
+            "email": "",
+            "phone": "0123456789",
+            "address": "XXXX - XXXXX - XXXXX",
+            "birthday": "19990101",
+            "company_name": "FSS",
+            "identifier": "010101010101",
+            "gender": "male",
+            "fullname": "NGUYEN TAM THANH LE",
+            "avatar": []
+        }
+    ],
+    "glucose": []
 }
