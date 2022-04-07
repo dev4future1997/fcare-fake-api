@@ -52,6 +52,7 @@
     "user": [
         {
             "id": "user-id-001",
+            "token": "user-token-00101",
             "phone": "0123456789",
             "password": "1"
         }
