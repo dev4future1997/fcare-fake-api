@@ -73,5 +73,54 @@
             "avatar": ""
         }
     ],
-    "glucose": []
+    "blood_glucose": [
+        {
+            "profile_id": "profile-id-001",
+            "datetime": "202204010711",
+            "blood": 6.0,
+            "meal_status": "bfm"
+        },
+        {
+            "profile_id": "profile-id-001",
+            "datetime": "202204020711",
+            "blood": 10.0,
+            "meal_status": "afm"
+        },
+        {
+            "profile_id": "profile-id-001",
+            "datetime": "20220400811",
+            "blood": 2.0,
+            "meal_status": "afm1"
+        },
+        {
+            "profile_id": "profile-id-001",
+            "datetime": "20220400921",
+            "blood": 16.0,
+            "meal_status": "afm2"
+        },
+        {
+            "profile_id": "profile-id-101",
+            "datetime": "202204010711",
+            "blood": 6.0,
+            "meal_status": "bfm"
+        },
+        {
+            "profile_id": "profile-id-101",
+            "datetime": "202204020711",
+            "blood": 10.0,
+            "meal_status": "afm"
+        },
+        {
+            "profile_id": "profile-id-101",
+            "datetime": "20220400811",
+            "blood": 2.0,
+            "meal_status": "afm1"
+        },
+        {
+            "profile_id": "profile-id-101",
+            "datetime": "20220400921",
+            "blood": 16.0,
+            "meal_status": "afm2"
+        }
+    ]
 }
