@@ -76,43 +76,43 @@
     "blood_glucose": [
         {
             "profile_id": "profile-id-001",
-            "datetime": "2022/04/08 - 07/11",
+            "datetime": "2022/04/08 - 07:11",
             "blood": 6.0,
             "meal_status": "bfm"
         },
         {
             "profile_id": "profile-id-001",
-            "datetime": "2022/04/07 - 07/11",
+            "datetime": "2022/04/07 - 07:11",
             "blood": 10.0,
             "meal_status": "afm"
         },
         {
             "profile_id": "profile-id-001",
-            "datetime": "2022/04/06 - 07/11",
+            "datetime": "2022/04/06 - 07:11",
             "blood": 2.0,
             "meal_status": "afm1"
         },
         {
             "profile_id": "profile-id-001",
-            "datetime": "2022/04/05 - 07/11",
+            "datetime": "2022/04/05 - 07:11",
             "blood": 16.0,
             "meal_status": "afm2"
         },
         {
             "profile_id": "profile-id-101",
-            "datetime": "2022/04/04 - 07/11",
+            "datetime": "2022/04/04 - 07:11",
             "blood": 6.0,
             "meal_status": "bfm"
         },
         {
             "profile_id": "profile-id-101",
-            "datetime": "2022/04/03 - 07/11",
+            "datetime": "2022/04/03 - 07:11",
             "blood": 10.0,
             "meal_status": "afm"
         },
         {
             "profile_id": "profile-id-101",
-            "datetime": "2022/04/02 - 07/11",
+            "datetime": "2022/04/02 - 07:11",
             "blood": 2.0,
             "meal_status": "afm1"
         },
