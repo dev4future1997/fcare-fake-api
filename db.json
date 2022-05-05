@@ -2,51 +2,51 @@
     "master-relationship": [
         {
             "id": "ssel",
-            "name": "S_SEL"
+            "name": "SELF"
         },
         {
             "id": "soth",
-            "name": "S_OTH"
+            "name": "OTHER"
         },
         {
             "id": "mgfa",
-            "name": "M_GFA"
+            "name": "GRANDFATHER"
         },
         {
             "id": "mdad",
-            "name": "M_DAD"
+            "name": "DAD"
         },
         {
             "id": "mobr",
-            "name": "M_OBR"
+            "name": "OLDERBROTHER"
         },
         {
             "id": "mybr",
-            "name": "M_YBR"
+            "name": "YOUNGBROTHER"
         },
         {
             "id": "mson",
-            "name": "M_SON"
+            "name": "SON"
         },
         {
             "id": "fgmo",
-            "name": "F_GMO"
+            "name": "GRANDMOTHER"
         },
         {
             "id": "fmom",
-            "name": "F_MOM"
+            "name": "MOM"
         },
         {
             "id": "fosi",
-            "name": "F_OSI"
+            "name": "OLDERSISTER"
         },
         {
             "id": "fysi",
-            "name": "F_YSI"
+            "name": "YOUNGSISTER"
         },
         {
             "id": "fdau",
-            "name": "F_DAU"
+            "name": "DAUGHTER"
         }
     ],
     "user": [
