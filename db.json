@@ -1,4 +1,10 @@
 {
+    "test-signin-phone-password": [
+        {
+            "id": 1,
+            "token": "user-token-00101"
+        }
+    ],
     "master-relationship": [
         {
             "id": "ssel",
