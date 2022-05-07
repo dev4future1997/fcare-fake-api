@@ -1,8 +1,14 @@
 {
+    "test-signin-by-token": [
+        {
+            "id": 1,
+            "token": "1"
+        }
+    ],
     "test-signin-phone-password": [
         {
             "id": 1,
-            "token": "user-token-00101"
+            "token": "1"
         }
     ],
     "master-relationship": [
