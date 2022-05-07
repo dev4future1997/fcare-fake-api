@@ -1,11 +1,5 @@
 {
-    "test-signin-by-token": [
-        {
-            "id": 1,
-            "token": "1"
-        }
-    ],
-    "test-signin-phone-password": [
+    "test-authorization": [
         {
             "id": 1,
             "token": "1"
